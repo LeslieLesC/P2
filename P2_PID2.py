@@ -15,7 +15,7 @@ import numpy.fft as fft
 import matplotlib.pyplot as plt
 import numpy.fft as fft
 import os
-from P2_funciones import cross_correlation_using_fft
+import  P2_funciones2 
 import nidaqmx
 import nidaqmx.constants as constants
 import nidaqmx.stream_writers
